@@ -1,0 +1,17 @@
+{
+  "name": "Base",
+  "version": "1.0.0",
+  "description": "Fixed Base Bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.0",
+    "@whiskeysockets/baileys": "^6.7.18",
+    "chalk": "^4.1.2",
+    "pino": "^9.4.0",
+    "ruhend-scraper": "*",
+    "yt-search": "^2.12.1"
+  }
+}
